@@ -29,10 +29,10 @@ Além disto é bom ter um editor para trabalhar com o código como <strong>VSCod
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Bruno-Cesar123/landing-page-linkedin>
+$ git clone <https://github.com/Bruno-Cesar123/linkedin-clone>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd clone-linkedin
+$ cd linkedin-clone
 
 # Instale as dependências
 $ npm install ou yarn 
